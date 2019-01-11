@@ -1,0 +1,79 @@
+@charset "utf-8";
+#basic {
+	height: 400px;
+	width: 250px;
+	float: left;
+}
+#image1 {
+	width: 350px;
+	height: 350px;
+	font-size: x-large;
+	float: left;
+}
+#image2 {
+	width: 350px;
+	height: 350px;
+	float: left;
+	clear: both;
+}
+h3 strong em {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+p em strong {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+
+
+#TEXT BOX {
+	width: 500px;
+	height: 824px;
+}
+p em span {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+body h1 a {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+
+
+
+#TEXT BOX {
+	width: 500px;
+	height: 300px;
+	float: left;
+
+}
+body p {
+	font-size: xx-large;
+}
+
+#image4 {
+	height: 300px;
+	float: right;
+	width: 300px;
+	display: inherit;
+}
+#image2 span {
+	float: right;
+}
+#image {
+	float: left;
+}
+#image1 img {
+	-webkit-box-shadow: inset 323px 345px 300px #4079FD;
+	box-shadow: inset 323px 345px 300px #4079FD;
+}
+a strong em {
+	font-size: xx-large;
+}
+strong em a {
+	font-size: xx-large;
+}
+body p {
+	font-size: x-large;
+}
+body ul li {
+	font-size: large;
+}
